@@ -1,7 +1,7 @@
 """
     Author : Atharva Mane
     Date : 18 April 2024
-    Languages : HTML , CSS , Python , Flask 
+    Languages : HTML , CSS , BootStrap ,  Python , Flask , SQLAlchemy
     Hosted : https://atharvamane.pythonanywhere.com/
 
     To create todo table(if not created) fire this commands in cmd/powershell
